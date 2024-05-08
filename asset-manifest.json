@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-npx/static/js/main.5c37e045.js",
+    "main.js": "/react-npx/static/js/main.52f8777f.js",
     "index.html": "/react-npx/index.html",
-    "main.5c37e045.js.map": "/react-npx/static/js/main.5c37e045.js.map"
+    "main.52f8777f.js.map": "/react-npx/static/js/main.52f8777f.js.map"
   },
   "entrypoints": [
-    "static/js/main.5c37e045.js"
+    "static/js/main.52f8777f.js"
   ]
 }
