@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/react-npx/static/js/main.c62fe93c.js",
+    "main.css": "/react-npx/static/css/main.788bee1c.css",
+    "main.js": "/react-npx/static/js/main.b5535c9c.js",
     "index.html": "/react-npx/index.html",
-    "main.c62fe93c.js.map": "/react-npx/static/js/main.c62fe93c.js.map"
+    "main.788bee1c.css.map": "/react-npx/static/css/main.788bee1c.css.map",
+    "main.b5535c9c.js.map": "/react-npx/static/js/main.b5535c9c.js.map"
   },
   "entrypoints": [
-    "static/js/main.c62fe93c.js"
+    "static/css/main.788bee1c.css",
+    "static/js/main.b5535c9c.js"
   ]
 }
